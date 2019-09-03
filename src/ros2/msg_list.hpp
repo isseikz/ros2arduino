@@ -54,6 +54,8 @@
 
 #include "tf2_msgs/TFMessage.hpp"
 
+#include "quadrotor_msgs/State.hpp"
+
 
 
 #endif /* ROS2_MSG_LIST_HPP_ */
