@@ -34,6 +34,8 @@
 #include "sensor_msgs/JointState.hpp"
 #include "sensor_msgs/Joy.hpp"
 
+#include "my_msgs/ImuMPU9250.hpp"
+
 #include "nav_msgs/Odometry.hpp"
 
 #include "geometry_msgs/Point.hpp"
@@ -53,8 +55,6 @@
 #include "turtlebot3_msgs/VersionInfo.hpp"
 
 #include "tf2_msgs/TFMessage.hpp"
-
-#include "quadrotor_msgs/State.hpp"
 
 
 

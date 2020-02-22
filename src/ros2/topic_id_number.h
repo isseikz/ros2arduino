@@ -55,6 +55,9 @@ enum TopicIdNumbering
   SENSOR_MSGS_JOINT_STATE_ID,
   SENSOR_MSGS_JOY_ID,
 
+  /* my_msgs */ 
+  MY_MSGS_MPU9250_ID,
+
   /* nav_msgs */
   NAV_MSGS_ODOMETRY_ID,
 
@@ -64,10 +67,7 @@ enum TopicIdNumbering
   /* turtlebot3_msgs */
   TURTLEBOT3_MSGS_SOUND_ID,
   TURTLEBOT3_MSGS_VERSION_INFO_ID,
-  TURTLEBOT3_MSGS_SENSOR_STATE_ID,
-
-  /* quadrotor_msgs */
-  QUADROTOR_MSGS_STATE_ID
+  TURTLEBOT3_MSGS_SENSOR_STATE_ID
 };
 
 
